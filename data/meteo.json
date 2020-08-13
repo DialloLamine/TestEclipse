@@ -1,0 +1,1 @@
+{"list":[{"agent":[{"nom":"Bob","lieu":"Bruxelles","liste":[{"meteo-data":[{"degre":14.5,"date":"2020-04-01"},{"degre":20,"date":"2020-04-02"},{"degre":16.8,"date":"2020-04-03"}]}]},{"nom":"Fred","lieu":"Anvers","liste":[{"meteo-data":[{"degre":12,"date":"2020-04-01"},{"degre":24,"date":"2020-04-02"},{"degre":18,"date":"2020-04-03"}]}]}]}]}
